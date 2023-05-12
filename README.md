@@ -1,4 +1,4 @@
 ### Hi there 👋
-Computer Vision
-Machine Learning
-Blockchain
+1. Computer Vision
+2. Machine Learning
+3. Blockchain
