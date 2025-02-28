@@ -5,4 +5,4 @@
 - Machine Learning/Python/R Lang
 
 Let's donate Bitcoin
-bc1pjpv8hfpqrswvwelrz8e0zgszrxzg093xxwm2c6xumfs7xhpff6hsmq8wrs
+bc1p92pnh49acsslvpdhzj9s77qdrc93kqm97hm5qqcy4w6sg5v6j7lqj5a0xq
